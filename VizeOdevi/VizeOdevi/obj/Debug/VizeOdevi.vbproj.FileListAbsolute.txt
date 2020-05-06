@@ -1,0 +1,13 @@
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\VizeOdevi\VizeOdevi\bin\Debug\VizeOdevi.exe.config
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\VizeOdevi\VizeOdevi\bin\Debug\VizeOdevi.exe
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\VizeOdevi\VizeOdevi\bin\Debug\VizeOdevi.pdb
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\VizeOdevi\VizeOdevi\bin\Debug\VizeOdevi.xml
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\VizeOdevi\VizeOdevi\obj\Debug\VizeOdevi.vbprojAssemblyReference.cache
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\VizeOdevi\VizeOdevi\obj\Debug\VizeOdevi.Form1.resources
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\VizeOdevi\VizeOdevi\obj\Debug\VizeOdevi.Resources.resources
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\VizeOdevi\VizeOdevi\obj\Debug\VizeOdevi.vbproj.GenerateResource.cache
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\VizeOdevi\VizeOdevi\obj\Debug\VizeOdevi.vbproj.CoreCompileInputs.cache
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\VizeOdevi\VizeOdevi\obj\Debug\VizeOdevi.exe
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\VizeOdevi\VizeOdevi\obj\Debug\VizeOdevi.xml
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\VizeOdevi\VizeOdevi\obj\Debug\VizeOdevi.pdb
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\VizeOdevi\VizeOdevi\obj\Debug\VizeOdevi.frmYeniKullanici.resources
