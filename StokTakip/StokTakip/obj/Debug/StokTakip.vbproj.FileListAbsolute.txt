@@ -1,0 +1,17 @@
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\StokTakip\StokTakip\bin\Debug\StokTakip.xml
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\StokTakip\StokTakip\obj\Debug\StokTakip.vbprojAssemblyReference.cache
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\StokTakip\StokTakip\obj\Debug\StokTakip.Form1.resources
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\StokTakip\StokTakip\obj\Debug\StokTakip.Resources.resources
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\StokTakip\StokTakip\obj\Debug\StokTakip.vbproj.GenerateResource.cache
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\StokTakip\StokTakip\obj\Debug\StokTakip.vbproj.CoreCompileInputs.cache
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\StokTakip\StokTakip\obj\Debug\StokTakip.xml
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\StokTakip\StokTakip\obj\Debug\StokTakip.MDIParent1.resources
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\StokTakip\StokTakip\obj\Debug\StokTakip.Form2.resources
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\StokTakip\StokTakip\obj\Debug\StokTakip.Form3.resources
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\StokTakip\StokTakip\obj\Debug\StokTakip.Form4.resources
+C:\Users\aytek\Desktop\Vize Ödevi VB.NET\StokTakip\StokTakip\obj\Debug\StokTakip.Form5.resources
